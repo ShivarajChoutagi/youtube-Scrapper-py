@@ -1,0 +1,15 @@
+requests==2.27.1
+beautifulsoup4==4.11.1
+requests
+mysql-connector-python
+flask~=2.0.3
+requests_html
+pytube~=12.1.0
+pybase64
+boto3~=1.23.10
+cryptography~=36.0.2
+pymongo~=4.1.1
+pymongo[srv]
+snowflake-connector-python
+gunicorn==20.0.4
+bs4~=0.0.1
